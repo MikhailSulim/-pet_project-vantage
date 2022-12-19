@@ -1,0 +1,21 @@
+.example__new {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 2.72px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #141414;
+  border: none;
+  width: 103px;
+  height: 34px;
+  text-align: center;
+  padding: 9px 33px 8px 36px;
+  box-sizing: border-box;
+}

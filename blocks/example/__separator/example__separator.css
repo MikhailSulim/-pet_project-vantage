@@ -1,0 +1,8 @@
+.example__separator {
+  width: 11px;
+  height: 11px;
+  background-color: #222;
+  position: absolute;
+  top: 269px;
+  left: 715px;
+}

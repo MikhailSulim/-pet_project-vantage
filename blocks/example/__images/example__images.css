@@ -1,0 +1,11 @@
+.example__images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1338px;
+  height: 342px;
+  padding: 0;
+  position: absolute;
+  top: calc(206.75px - 342.3px);
+  left: 51px;
+}

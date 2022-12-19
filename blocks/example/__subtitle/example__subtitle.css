@@ -1,0 +1,17 @@
+.example__subtitle {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  background-color: #99823d;
+  border: none;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 34px;
+  letter-spacing: 2.7625px;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 0 30px 68px 33px;
+}

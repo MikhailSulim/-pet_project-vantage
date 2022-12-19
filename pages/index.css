@@ -51,14 +51,18 @@
 @import url('../blocks/about-us/__digit-separator/about-us__digit-separator.css');
 @import url('../blocks/about-us/__digit/about-us__digit.css');
 @import url('../blocks/about-us/__digit-name/about-us__digit-name.css');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
+
+/* section example */
+@import url('../blocks/example/example.css');
+@import url('../blocks/example/__images/example__images.css');
+@import url('../blocks/example/__image-item/example__image-item.css');
+@import url('../blocks/example/__new/example__new.css');
+@import url('../blocks/example/__subtitle/example__subtitle.css');
+@import url('../blocks/example/__title/example__title.css');
+@import url('../blocks/example/__image/example__image.css');
+@import url('../blocks/example/__separator/example__separator.css');
+
+
 @import url('');
 @import url('');
 @import url('');
