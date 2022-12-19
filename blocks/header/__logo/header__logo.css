@@ -1,0 +1,7 @@
+.header__logo {
+  align-self: center;
+  width: 326px;
+  height: 136px;
+  padding-top: calc(136px / 2 - 68px / 2);
+  z-index: 2;
+}

@@ -1,0 +1,9 @@
+.main__rectangle {
+  position: absolute;
+  background-color: #99823d;
+  border: none;
+  top: 329px;
+  right: 0;
+  width: 489px;
+  height: 329px;
+}

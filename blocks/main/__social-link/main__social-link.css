@@ -1,0 +1,14 @@
+.main__social-link {
+  position: absolute;
+  top: 590.91px;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  width: 815px;
+  height: 68px;
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+  column-gap: 37px;
+  list-style: none;
+}

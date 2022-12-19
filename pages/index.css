@@ -1,0 +1,44 @@
+
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts/fonts.css');
+
+@import url('../blocks/page/page.css');
+
+/* header */
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__content/header__content.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__author/header__author.css');
+@import url('../blocks/menu/__item/menu__item.css');
+@import url('../blocks/menu/__list/menu__list.css');
+@import url('../blocks/menu/__button/menu__button.css');
+@import url('../blocks/header/__bureau/header__bureau.css');
+@import url('../blocks/header/__author/header__author.css');
+@import url('../blocks/header/__bureau-name/header__bureau-name.css');
+@import url('../blocks/header/__bureau-logo/header__bureau-logo.css');
+
+/* section main */
+@import url('../blocks/main/main.css');
+@import url('../blocks/main/__content/main__content.css');
+@import url('../blocks/main/__img/main__img.css');
+@import url('../blocks/main/__description/main__description.css');
+@import url('../blocks/main/__author/main__author.css');
+@import url('../blocks/main/__title/main__title.css');
+@import url('../blocks/main/__subtitle/main__subtitle.css');
+@import url('../blocks/main/__buttons/main__buttons.css');
+@import url('../blocks/main/__button/main__button.css');
+@import url('../blocks/main/__button/_chat/main__button_chat.css');
+@import url('../blocks/main/__button/_explore/main__button_explore.css');
+@import url('../blocks/main/__rectangle/main__rectangle.css');
+@import url('../blocks/main/__social-link/main__social-link.css');
+@import url('../blocks/main/__link-item/main__link-item.css');
+
+
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+
+/* * {
+    outline: 1px solid red;
+} */

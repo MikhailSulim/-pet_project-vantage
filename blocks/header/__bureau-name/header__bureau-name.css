@@ -1,0 +1,12 @@
+.header__bureau-name {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+  color: #fff;
+  width: 59px;
+  height: 16px;
+  padding-left: 3px;
+  margin: 0;
+}

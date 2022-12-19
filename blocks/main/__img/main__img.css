@@ -1,0 +1,8 @@
+.main__img {
+  position: absolute;
+  width: 978px;
+  height: 591px;
+  top: 0;
+  left: 0;
+  background-size: contain;
+}

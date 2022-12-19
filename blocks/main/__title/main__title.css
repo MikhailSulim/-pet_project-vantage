@@ -1,0 +1,11 @@
+.main__title {
+  font-family: "Teko";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 67px;
+  line-height: 67px;
+  text-transform: capitalize;
+  color: #141414;
+  max-width: 417px;
+  margin: 0 auto 32px 68px;
+}

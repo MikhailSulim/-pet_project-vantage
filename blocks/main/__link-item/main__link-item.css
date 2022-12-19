@@ -1,0 +1,13 @@
+.main__link-item {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 68px;
+  letter-spacing: 2.975px;
+  text-transform: uppercase;
+  color: #000;
+  justify-content: flex-start;
+  align-items: center;
+  text-decoration: none;
+}

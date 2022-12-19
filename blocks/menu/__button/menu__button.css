@@ -1,0 +1,16 @@
+.menu__button {
+  background-color: transparent;
+  color: #fff;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 34px;
+  letter-spacing: 2.7625px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  height: 34px;
+  border: none;
+}

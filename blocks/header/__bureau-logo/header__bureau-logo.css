@@ -1,0 +1,8 @@
+.header__bureau-logo {
+  width: 17px;
+  height: 17px;
+  background-image: url("../../../images/bureau_logo.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 0;
+}
