@@ -1,0 +1,6 @@
+.about-us__news-column {
+  max-width: 424px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

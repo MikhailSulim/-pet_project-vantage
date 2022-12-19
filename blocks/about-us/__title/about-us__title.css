@@ -1,0 +1,11 @@
+.about-us__title {
+  font-family: "Teko";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 53px;
+  line-height: 53px;
+  text-transform: capitalize;
+  color: #141414;
+  width: 655px;
+  margin: 0 0 12px 0;
+}

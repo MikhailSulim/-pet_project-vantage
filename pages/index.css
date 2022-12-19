@@ -33,21 +33,19 @@
 @import url('../blocks/main/__social-link/main__social-link.css');
 @import url('../blocks/main/__link-item/main__link-item.css');
 
-/* section abut-us */
+/* section about-us */
 @import url('../blocks/about-us/about-us.css');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
+@import url('../blocks/about-us/__content/about-us__content.css');
+@import url('../blocks/about-us/__description/about-us__description.css');
+@import url('../blocks/about-us/__main/about-us__main.css');
+@import url('../blocks/about-us/__about/about-us__about.css');
+@import url('../blocks/about-us/__title/about-us__title.css');
+@import url('../blocks/about-us/__article/about-us__article.css');
+@import url('../blocks/about-us/__news-column/about-us__news-column.css');
+@import url('../blocks/news/__container/news__container.css');
+@import url('../blocks/news/__news-head/news__news-head.css');
+@import url('../blocks/news/__link/news__link.css');
+@import url('../blocks/news/__title/news__title.css');
 @import url('');
 @import url('');
 @import url('');

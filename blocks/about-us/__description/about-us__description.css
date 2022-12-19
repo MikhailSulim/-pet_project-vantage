@@ -1,0 +1,6 @@
+.about-us__description {
+  display: flex;
+  flex-direction: row;
+  margin: 135.91px 68px 58px 68px;
+  justify-content: space-between;
+}

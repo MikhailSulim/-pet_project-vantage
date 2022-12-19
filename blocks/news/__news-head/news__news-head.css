@@ -1,0 +1,12 @@
+.news__news-head {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 17px;
+  letter-spacing: 2.7625px;
+  text-transform: uppercase;
+  color: #99823d;
+}
