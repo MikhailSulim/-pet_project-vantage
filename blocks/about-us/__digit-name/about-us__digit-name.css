@@ -1,0 +1,13 @@
+.about-us__digit-name {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 2.975px;
+  text-transform: uppercase;
+  color: #99823d;
+}

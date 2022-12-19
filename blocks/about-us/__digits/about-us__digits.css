@@ -1,0 +1,8 @@
+.about-us__digits {
+  display: flex;
+  flex-direction: row;
+  margin: 0 68px 0 68px;
+  justify-content: space-between;
+  align-items: center;
+  height: 75px;
+}

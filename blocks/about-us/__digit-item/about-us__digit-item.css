@@ -1,0 +1,7 @@
+.about-us__digit-item {
+  height: 71px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  /* align-content: ; */
+}

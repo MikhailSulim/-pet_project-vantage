@@ -1,0 +1,12 @@
+.about-us__digit {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Teko";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 59px;
+  line-height: 59px;
+  height: 59px;
+  color: #141414;
+}
