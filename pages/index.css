@@ -33,12 +33,26 @@
 @import url('../blocks/main/__social-link/main__social-link.css');
 @import url('../blocks/main/__link-item/main__link-item.css');
 
+/* section abut-us */
+@import url('../blocks/about-us/about-us.css');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
 
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-
-/* * {
+* {
     outline: 1px solid red;
-} */
+}
