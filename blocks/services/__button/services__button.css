@@ -1,0 +1,17 @@
+.services__button {
+  background-color: #99823d;
+  border: none;
+  width: 392px;
+  height: 68px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 2.975px;
+  text-transform: uppercase;
+  color: #fff;
+  cursor: pointer;
+  margin: 0 auto 107px auto;
+}

@@ -1,0 +1,14 @@
+.services__title {
+  font-family: "Teko";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 53px;
+  line-height: 53px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #141414;
+  margin: 0 auto 81px auto;
+  max-width: 705px;
+  padding: 0;
+  box-sizing: border-box;
+}
