@@ -1,0 +1,6 @@
+.partners {
+  display: flex;
+  flex-direction: column;
+  background-color: #ebebeb;
+  width: 100%;
+}

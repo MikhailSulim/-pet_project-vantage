@@ -1,0 +1,7 @@
+.partners__partners-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 67.95px 136px 68.3px 136px;
+}

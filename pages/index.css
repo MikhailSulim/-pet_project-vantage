@@ -77,15 +77,15 @@
 @import url('../blocks/services/__date/services__date.css');
 @import url('../blocks/services/__item-title/services__item-title.css');
 
-
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
+/* partners */
+@import url('../blocks/partners/partners.css');
+@import url('../blocks/partners/__partners-line/partners__partners-line.css');
+@import url('../blocks/partners/__separate/partners__separate.css');
+@import url('../blocks/partners/__link/partners__link.css');
+@import url('../blocks/partners/__bottom/partners__bottom.css');
+@import url('../blocks/partners/__logo/partners__logo.css');
+@import url('../blocks/partners/__vantage-logo/partners__vantage-logo.css');
+@import url('../blocks/partners/__menu/partners__menu.css');
 @import url('');
 
 * {
