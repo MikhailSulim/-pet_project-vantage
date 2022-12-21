@@ -1,0 +1,6 @@
+.services__items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 391px);
+  margin: 0 auto 90px auto;
+  width: 1176px;
+}

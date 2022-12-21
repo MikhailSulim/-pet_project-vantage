@@ -1,0 +1,6 @@
+.services__img {
+  width: 68px;
+  height: 68px;
+  background-size: contain;
+  grid-area: img;
+}
