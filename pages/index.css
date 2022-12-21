@@ -88,10 +88,10 @@
 @import url('../blocks/partners/__menu/partners__menu.css');
 
 /* footer */
-@import url('');
-@import url('');
-@import url('');
-@import url('');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__subscribe/footer__subscribe.css');
+@import url('../blocks/footer/__email-input/footer__email-input.css');
+@import url('../blocks/footer/__subscribe-btn/footer__subscribe-btn.css');
 @import url('');
 @import url('');
 @import url('');

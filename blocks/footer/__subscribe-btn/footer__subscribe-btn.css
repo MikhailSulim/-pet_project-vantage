@@ -1,0 +1,15 @@
+.footer__subscribe-btn {
+  width: 155px;
+  height: 68px;
+  background-color: #141414;
+  border: none;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 34px;
+  text-align: center;
+  letter-spacing: 2.7625px;
+  text-transform: uppercase;
+  color: #fff;
+}

@@ -1,0 +1,13 @@
+.footer__subscribe {
+  max-width: 1168px;
+  max-height: 204px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 17px;
+  background-color: #99823d;
+  position: absolute;
+  top: -32px;
+  z-index: 2;
+  margin: 0 136px 67px 136px;
+  padding: 68px;
+}

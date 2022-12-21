@@ -1,0 +1,15 @@
+.footer__email-input {
+  width: 860px;
+  height: 68px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 34px;
+  padding: 0 0 0 30px;
+  box-sizing: border-box;
+  letter-spacing: 2.7625px;
+  text-transform: uppercase;
+  color: #3d3d3d;
+  border: none;
+}
