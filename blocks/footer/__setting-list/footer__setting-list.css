@@ -1,0 +1,14 @@
+.footer__setting-list {
+  position: absolute;
+  left: 136px;
+  bottom: 17px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 316.58px;
+  height: 33px;
+  padding: 0;
+  margin: 0;
+}

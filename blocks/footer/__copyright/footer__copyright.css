@@ -1,0 +1,18 @@
+.footer__copyright {
+  position: absolute;
+  bottom: 16px;
+  right: 136px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 34px;
+  letter-spacing: 2.7625px;
+  text-transform: uppercase;
+  text-align: center;
+}

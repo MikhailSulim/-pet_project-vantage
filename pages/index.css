@@ -92,10 +92,9 @@
 @import url('../blocks/footer/__subscribe/footer__subscribe.css');
 @import url('../blocks/footer/__email-input/footer__email-input.css');
 @import url('../blocks/footer/__subscribe-btn/footer__subscribe-btn.css');
-@import url('');
-@import url('');
-@import url('');
-
-* {
-    outline: 1px solid red;
-}
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/footer/__copyright-author/footer__copyright-author.css');
+@import url('../blocks/footer/__copyright-powerd/footer__copyright-powerd.css');
+@import url('../blocks/footer/__setting-list/footer__setting-list.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__list-item/footer__list-item.css');
