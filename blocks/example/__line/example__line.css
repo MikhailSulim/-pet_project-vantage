@@ -1,0 +1,7 @@
+.example__line {
+  width: 1px;
+  height: 275px;
+  border: none;
+  border-radius: 0;
+  background-color: #fff;
+}
