@@ -86,6 +86,14 @@
 @import url('../blocks/partners/__logo/partners__logo.css');
 @import url('../blocks/partners/__vantage-logo/partners__vantage-logo.css');
 @import url('../blocks/partners/__menu/partners__menu.css');
+
+/* footer */
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
+@import url('');
 @import url('');
 
 * {
