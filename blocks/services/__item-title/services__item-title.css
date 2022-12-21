@@ -1,0 +1,12 @@
+.services__item-title {
+  font-family: "Teko";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 26px;
+  text-transform: capitalize;
+  color: #141414;
+  grid-area: title;
+  margin: 0 auto 9px 17px;
+  padding: 0;
+}

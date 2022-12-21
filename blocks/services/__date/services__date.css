@@ -1,0 +1,14 @@
+.services__date {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 17px;
+  max-height: 17px;
+  letter-spacing: 2.7625px;
+  text-transform: uppercase;
+  color: #99823d;
+  grid-area: date;
+  margin: 4px auto 11px 17px;
+  padding: 0;
+}
