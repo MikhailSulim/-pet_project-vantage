@@ -3,4 +3,6 @@
   width: 116px;
   margin: 0;
   padding: 0;
+  cursor: pointer;
+  text-decoration: none;
 }
